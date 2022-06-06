@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Frontend developer",
     "linkedinId":"https://www.linkedin.com/in/tammireddysiddu/",
     "email":"siddutssd@gmail.com",
-    "roleDescription": `Experienced with a demonstrated history of working in the information technology and services industry. Skilled in JavaScript, Reactjs, Nodejs, HTML and CSS . `,
+    "roleDescription": ` Experienced with a demonstrated history of working in the information technology and services industry. Skilled in JavaScript, Reactjs, Nodejs, HTML and CSS . `,
     "socialLinks":[
         {
           "name":"linkedin",
