@@ -3,7 +3,7 @@ let resumeData = {
     "name": "TAMMIREDDY SIDDA SAI DATTA VENKAT",
     "role": "Frontend developer",
     "linkedinId": "https://www.linkedin.com/in/tammireddysiddu/",
-    "email": "siddutssd@gmail.com",
+    "email": "18BCS4548@gmail.com",
     "roleDescription": ` Experienced with a demonstrated history of working in the information technology and services industry. Skilled in JavaScript, Reactjs, Nodejs, HTML and CSS . `,
     "socialLinks": [{
             "name": "linkedin",
